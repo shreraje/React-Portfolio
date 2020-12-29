@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import "materialize-css/dist/css/materialize.min.css";
 
 ReactDOM.render(
-  <div>
-    <App/>
-  </div>,
+  
+    <App/>,
+    
   document.getElementById('root')
 );
