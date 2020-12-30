@@ -20,8 +20,8 @@ function Project1() {
                         </span>
                         <div className="card-action">
                             <p><b>Links to check out this project:</b></p>
-                            <a href="https://github.com/shreraje/National-Parks-Adventure-Generator">URL of GitHub repository</a>
-                            <a href="https://shreraje.github.io/National-Parks-Adventure-Generator/">URL of deployed application</a>
+                            <a href="https://github.com/shreraje/National-Parks-Adventure-Generator" target="_blank"><b>URL of GitHub repository</b></a>
+                            <a href="https://shreraje.github.io/National-Parks-Adventure-Generator/" target="_blank"><b>URL of deployed application</b></a>
                         </div>
                     </div>
                 </div>
