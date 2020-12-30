@@ -1,10 +1,13 @@
 .App {
-  /* text-align: center; */
+  text-align: center;
 }
 
+/* * {
+    color: aliceblue;
+} */
 
 body {
-  background-image: linear-gradient(to right, black, skyblue);
+    background-image: linear-gradient(to right, black, skyblue);
 }
 
 .App-logo {
