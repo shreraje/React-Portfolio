@@ -10,13 +10,12 @@ function Welcome() {
                 <h4 className="header"><b>About me</b></h4>
                 <div className="card horizontal">
                     <div className="card-image">
-                    <img src= {Image} style ={{width:'70%'}} alt="Portfolio"></img>
+                    <img src= {Image} alt="Raj Graduation"></img>
                     </div>
                     <div className="card-stacked">
                         <span className=" center-align">
                             <p>Hello, My name is <b>Rajendra Shrestha</b>, a Full Stack Web Developer. At first, it was curiosity, to learn about the coding that guided me to seek a career in web-designing as a Full Stack Web Developer, even after completing my undergraduate degree in Microbiology and graduate degree in Environmental Science and Management. I was more fascinated by the idea of how our day-to-day social websites and other websites were designed, programmed and finally turned out to be a user-friendly webpages.
                             </p>
-                            <br></br>
                             <p> <b>Skills:</b> HTML, CSS, Bootstrap, JavaScript, APIs, Node.js, Express.js, Express Handlebars, MySQL, MVC, ORM, MongoDB, React.js, Objective Oriented Programming (OOP). </p>
                         </span>
                         <div className="card-action">
