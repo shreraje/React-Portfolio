@@ -1,11 +1,11 @@
 import React from 'react';
-import Image from '../Assets/Images/project-1 screenshot.png';
+import Image from '../../Assets/Images/project-1 screenshot.png';
 import "materialize-css/dist/css/materialize.min.css";
 
 function Project1() {
     return (
-        <div className="container" style= {{width: "100%"}}>
-            <div className="col s12 m8 offset-m2 l6 offset-l8 card-panel hoverable">
+        <div className="container">
+            <div className="col s12 m8 card-panel hoverable">
                 <h5 className="header" style={{color: "black" }}><b>Group Project 1: National Parks Adventure Generator</b></h5>
                 <div className="card horizontal">
                     <div className="card-image">
@@ -20,8 +20,8 @@ function Project1() {
                         </span>
                         <div className="card-action">
                             <p><b>Links to check out this project:</b></p>
-                            <a href="https://github.com/shreraje/National-Parks-Adventure-Generator" target="_blank"><b>URL of GitHub repository</b></a>
-                            <a href="https://shreraje.github.io/National-Parks-Adventure-Generator/" target="_blank"><b>URL of deployed application</b></a>
+                            <a class="blue-text text-darken-2" href="https://github.com/shreraje/National-Parks-Adventure-Generator" target="_blank" rel="noopener noreferrer"><b>URL of GitHub repository</b></a>
+                            <a class="blue-text text-darken-2" href="https://shreraje.github.io/National-Parks-Adventure-Generator/" target="_blank" rel="noopener noreferrer"><b>URL of deployed application</b></a>
                         </div>
                     </div>
                 </div>

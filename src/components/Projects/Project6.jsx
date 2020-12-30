@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../Assets/Images/budget_tracker_screenshot.png';
+import Image from '../../Assets/Images/budget_tracker_screenshot.png';
 import "materialize-css/dist/css/materialize.min.css";
 
 function Project6 () {
@@ -19,8 +19,8 @@ function Project6 () {
                         </span>
                         <div className="card-action">
                             <p><b>Links to check out this project:</b></p>
-                            <a href="https://github.com/shreraje/PWA-Budget-Tracker" target="_blank"><b>URL of GitHub repository</b></a>
-                            <a href="https://gentle-beach-75025.herokuapp.com/" target="_blank"><b>URL of Heroku deployed application</b></a>
+                            <a class="blue-text text-darken-2" href="https://github.com/shreraje/PWA-Budget-Tracker" target="_blank" rel="noopener noreferrer"><b>URL of GitHub repository</b></a>
+                            <a class="blue-text text-darken-2" href="https://gentle-beach-75025.herokuapp.com/" target="_blank" rel="noopener noreferrer"><b>URL of Heroku deployed application</b></a>
                         </div>
                     </div>
                 </div>

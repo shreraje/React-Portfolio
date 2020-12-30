@@ -5,7 +5,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 function Welcome() {
     return (
-        <div className="container" style= {{width: "100%"}}>
+        <div className="container">
             <div className="col s12 m8 offset-m2 l6 offset-l8">
                 <h4 className="header"><b>About me</b></h4>
                 <div className="card horizontal">
@@ -20,8 +20,12 @@ function Welcome() {
                         </span>
                         <div className="card-action">
                             <p><b>Follow me to discover more about me:</b></p>
-                            <a href="https://github.com/shreraje">GitHub Link</a>
-                            <a href="https://linkedin.com/in/rajendra-shrestha-54597679">LinkedIn Link</a>
+                            <a class="blue-text text-darken-2" href="https://github.com/shreraje" target="_blank" rel="noopener noreferrer">
+                                <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub badge"></img>GitHub</a>
+                                <a class="blue-text text-darken-2" href="https://linkedin.com/in/rajendra-shrestha-54597679" target="_blank" rel="noopener noreferrer">
+                                <img src="https://img.icons8.com/color/6h58/000000/linkedin.png" alt="LinkedIn badge"></img>LinkedIn</a>
+                                <a class="blue-text text-darken-2" href="https://drive.google.com/file/d/1A4_ps2mP1oQqkgq_X84CFO9ZqUmRmUf9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="LinkedIn badge"></img>Resume</a>
                         </div>
                     </div>
                 </div>

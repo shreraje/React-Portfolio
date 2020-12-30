@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from '../Assets/Images/burger.png';
+import Image from '../../Assets/Images/burger.png';
 import "materialize-css/dist/css/materialize.min.css";
 
 function Project5 () {
@@ -19,8 +19,8 @@ function Project5 () {
                         </span>
                         <div className="card-action">
                             <p><b>Links to check out this project:</b></p>
-                            <a href="https://github.com/shreraje/A-Burger-Logger/" target="_blank"><b>URL of GitHub repository</b></a>
-                            <a href="https://still-coast-40502.herokuapp.com/" target="_blank"><b>URL of Heroku deployed application</b></a>
+                            <a class="blue-text text-darken-2" href="https://github.com/shreraje/A-Burger-Logger/" target="_blank" rel="noopener noreferrer"><b>URL of GitHub repository</b></a>
+                            <a class="blue-text text-darken-2" href="https://still-coast-40502.herokuapp.com/" target="_blank" rel="noopener noreferrer"><b>URL of Heroku deployed application</b></a>
                         </div>
                     </div>
                 </div>

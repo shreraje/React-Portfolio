@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
-import Project1 from './components/Project1';
-import Project2 from './components/Project2';
-import Project3 from './components/Project3';
-import Project4 from './components/Project4';
-import Project5 from './components/Project5';
-import Project6 from './components/Project6';
+import Project1 from './components/Projects/Project1';
+import Project2 from './components/Projects/Project2';
+import Project3 from './components/Projects/Project3';
+import Project4 from './components/Projects/Project4';
+import Project5 from './components/Projects/Project5';
+import Project6 from './components/Projects/Project6';
 import Footer from './components/Footer/Footer';
 import "materialize-css/dist/css/materialize.min.css";
 
