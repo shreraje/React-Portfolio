@@ -4,7 +4,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 function Project4 () {
     return (
-        <div className="container">
+        <div className="container" style= {{width: "100%"}}>
             <div className="col s12 m8 offset-m2 l6 offset-l8 card-panel hoverable">
                 <h5 className="header" style={{color: "black" }}><b>Class Project 2: Note Taker</b></h5>
                 <div className="card horizontal">

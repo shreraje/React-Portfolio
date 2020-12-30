@@ -5,13 +5,13 @@ import "materialize-css/dist/css/materialize.min.css";
 function Footer() {
     return (
         <footer class="page-footer grey lighten-5">
-            <div class="container">
+            <div class="container" >
                 <div class="row" style={{ display: "flex"}}>
                     <div class="col l6 s12">
                         <h6 class="black-text"><b>Follow me to discover more:</b></h6>
                         <div className="card-action">
                             <p><b>Follow me to discover more about me:</b></p>
-                            <a class="blue-text text-darken-2" href="https://github.com/shreraje" target="_blank" rel="noopener noreferrer">
+                                <a class="blue-text text-darken-2" href="https://github.com/shreraje" target="_blank" rel="noopener noreferrer">
                                 <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub badge"></img>GitHub</a>
 
                                 <a class="blue-text text-darken-2" href="https://linkedin.com/in/rajendra-shrestha-54597679" target="_blank" rel="noopener noreferrer">

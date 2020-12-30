@@ -5,7 +5,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 function Welcome() {
     return (
-        <div className="container">
+        <div className="container" style= {{width: "100%"}}>
             <div className="col s12 m8 offset-m2 l6 offset-l8">
                 <h4 className="header"><b>About me</b></h4>
                 <div className="card horizontal">

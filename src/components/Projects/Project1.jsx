@@ -4,7 +4,7 @@ import "materialize-css/dist/css/materialize.min.css";
 
 function Project1() {
     return (
-        <div className="container">
+        <div className="container" style= {{width: "100%"}}>
             <div className="col s12 m8 card-panel hoverable">
                 <h5 className="header" style={{color: "black" }}><b>Group Project 1: National Parks Adventure Generator</b></h5>
                 <div className="card horizontal">

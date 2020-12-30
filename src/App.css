@@ -10,7 +10,9 @@ body {
     background-image: linear-gradient(to right, black, skyblue);
 }
 
-
+.container {
+  width: 100%;
+}
 
 .App-logo {
   height: 40vmin;
