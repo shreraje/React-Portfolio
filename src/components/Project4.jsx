@@ -2,7 +2,7 @@ import React from 'react';
 import Image from '../Assets/Images/project-4 screenshot.png';
 import "materialize-css/dist/css/materialize.min.css";
 
-function Project3 () {
+function Project4 () {
     return (
         <div className="container" style= {{width: "100%"}}>
             <div className="col s12 m8 offset-m2 l6 offset-l8 card-panel hoverable">
@@ -29,4 +29,4 @@ function Project3 () {
     );  
 };
 
-export default Project3;
+export default Project4;
