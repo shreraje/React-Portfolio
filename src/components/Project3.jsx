@@ -6,7 +6,7 @@ function Project3 () {
     return (
         <div className="container" style= {{width: "100%"}}>
             <div className="col s12 m8 offset-m2 l6 offset-l8 card-panel hoverable">
-                <h5 className="header" style={{color: "black" }}><b>Project 3: Timed Code Quiz</b></h5>
+                <h5 className="header" style={{color: "black" }}><b>Class Project 1: Timed Code Quiz</b></h5>
                 <div className="card horizontal">
                     <div className="card-image">
                     <img src= {Image} alt="Project1 Screenshot"></img>
