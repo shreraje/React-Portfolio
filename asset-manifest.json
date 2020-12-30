@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.5efbddf9.chunk.css",
-    "main.js": "/static/js/main.b5d63ef5.chunk.js",
-    "main.js.map": "/static/js/main.b5d63ef5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0197b26b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0197b26b.js.map",
-    "static/css/2.a7230bcb.chunk.css": "/static/css/2.a7230bcb.chunk.css",
-    "static/js/2.3c792cfc.chunk.js": "/static/js/2.3c792cfc.chunk.js",
-    "static/js/2.3c792cfc.chunk.js.map": "/static/js/2.3c792cfc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.a7230bcb.chunk.css.map": "/static/css/2.a7230bcb.chunk.css.map",
-    "static/css/main.5efbddf9.chunk.css.map": "/static/css/main.5efbddf9.chunk.css.map",
-    "static/js/2.3c792cfc.chunk.js.LICENSE.txt": "/static/js/2.3c792cfc.chunk.js.LICENSE.txt",
-    "static/media/budget_tracker_screenshot.80a1179d.png": "/static/media/budget_tracker_screenshot.80a1179d.png",
-    "static/media/burger.db5cf7ad.png": "/static/media/burger.db5cf7ad.png",
-    "static/media/portfolio.8571e3c7.JPG": "/static/media/portfolio.8571e3c7.JPG",
-    "static/media/project-1 screenshot.60348bfd.png": "/static/media/project-1 screenshot.60348bfd.png",
-    "static/media/project-2 screenshot.cc847e9d.png": "/static/media/project-2 screenshot.cc847e9d.png",
-    "static/media/project-3 screenshot.80278b82.png": "/static/media/project-3 screenshot.80278b82.png",
-    "static/media/project-4 screenshot.71a5ca42.png": "/static/media/project-4 screenshot.71a5ca42.png"
+    "main.css": "/React-Portfolio/static/css/main.b0597e52.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.111eea38.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.111eea38.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ba1c2482.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.ba1c2482.js.map",
+    "static/css/2.a7230bcb.chunk.css": "/React-Portfolio/static/css/2.a7230bcb.chunk.css",
+    "static/js/2.3c792cfc.chunk.js": "/React-Portfolio/static/js/2.3c792cfc.chunk.js",
+    "static/js/2.3c792cfc.chunk.js.map": "/React-Portfolio/static/js/2.3c792cfc.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/2.a7230bcb.chunk.css.map": "/React-Portfolio/static/css/2.a7230bcb.chunk.css.map",
+    "static/css/main.b0597e52.chunk.css.map": "/React-Portfolio/static/css/main.b0597e52.chunk.css.map",
+    "static/js/2.3c792cfc.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3c792cfc.chunk.js.LICENSE.txt",
+    "static/media/budget_tracker_screenshot.80a1179d.png": "/React-Portfolio/static/media/budget_tracker_screenshot.80a1179d.png",
+    "static/media/burger.db5cf7ad.png": "/React-Portfolio/static/media/burger.db5cf7ad.png",
+    "static/media/portfolio.8571e3c7.JPG": "/React-Portfolio/static/media/portfolio.8571e3c7.JPG",
+    "static/media/project-1 screenshot.60348bfd.png": "/React-Portfolio/static/media/project-1 screenshot.60348bfd.png",
+    "static/media/project-2 screenshot.cc847e9d.png": "/React-Portfolio/static/media/project-2 screenshot.cc847e9d.png",
+    "static/media/project-3 screenshot.80278b82.png": "/React-Portfolio/static/media/project-3 screenshot.80278b82.png",
+    "static/media/project-4 screenshot.71a5ca42.png": "/React-Portfolio/static/media/project-4 screenshot.71a5ca42.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0197b26b.js",
+    "static/js/runtime-main.ba1c2482.js",
     "static/css/2.a7230bcb.chunk.css",
     "static/js/2.3c792cfc.chunk.js",
-    "static/css/main.5efbddf9.chunk.css",
-    "static/js/main.b5d63ef5.chunk.js"
+    "static/css/main.b0597e52.chunk.css",
+    "static/js/main.111eea38.chunk.js"
   ]
 }
