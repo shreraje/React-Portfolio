@@ -2,12 +2,14 @@
   text-align: center;
 }
 
-/* * {
-    color: aliceblue;
-} */
+
 
 body {
-    background-image: linear-gradient(to right, grey, white);
+  background-image: linear-gradient(to right, black, white, black, white, black);
+}
+
+.card, .card-panel {
+  background-image: linear-gradient(to right, aliceblue, lightblue, white, lightblue, white);
 }
 
 
