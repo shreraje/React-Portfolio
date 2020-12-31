@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.be2c356b.chunk.css",
+    "main.css": "/React-Portfolio/static/css/main.8c20533c.chunk.css",
     "main.js": "/React-Portfolio/static/js/main.106e3cf9.chunk.js",
     "main.js.map": "/React-Portfolio/static/js/main.106e3cf9.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.ba1c2482.js",
@@ -10,7 +10,7 @@
     "static/js/2.3c792cfc.chunk.js.map": "/React-Portfolio/static/js/2.3c792cfc.chunk.js.map",
     "index.html": "/React-Portfolio/index.html",
     "static/css/2.a7230bcb.chunk.css.map": "/React-Portfolio/static/css/2.a7230bcb.chunk.css.map",
-    "static/css/main.be2c356b.chunk.css.map": "/React-Portfolio/static/css/main.be2c356b.chunk.css.map",
+    "static/css/main.8c20533c.chunk.css.map": "/React-Portfolio/static/css/main.8c20533c.chunk.css.map",
     "static/js/2.3c792cfc.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.3c792cfc.chunk.js.LICENSE.txt",
     "static/media/budget_tracker_screenshot.80a1179d.png": "/React-Portfolio/static/media/budget_tracker_screenshot.80a1179d.png",
     "static/media/burger.db5cf7ad.png": "/React-Portfolio/static/media/burger.db5cf7ad.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.ba1c2482.js",
     "static/css/2.a7230bcb.chunk.css",
     "static/js/2.3c792cfc.chunk.js",
-    "static/css/main.be2c356b.chunk.css",
+    "static/css/main.8c20533c.chunk.css",
     "static/js/main.106e3cf9.chunk.js"
   ]
 }
