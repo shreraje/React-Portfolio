@@ -1,6 +1,5 @@
 import React from 'react';
 import Image from '../../Assets/Images/portfolio.JPG';
-import './Header.css';
 import "materialize-css/dist/css/materialize.min.css";
 
 function Welcome() {

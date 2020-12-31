@@ -7,12 +7,9 @@
 } */
 
 body {
-    background-image: linear-gradient(to right, black, skyblue);
+    background-image: linear-gradient(to right, grey, white);
 }
 
-.container {
-  width: 100%;
-}
 
 .App-logo {
   height: 40vmin;
