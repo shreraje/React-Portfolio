@@ -25,7 +25,7 @@ The main purpose of this project is to create a simple react portfolio app showi
 ## Screenshot
 Deployed application screenshot of portfolio-page:
 
-![react_portfolio_screenshot](https://user-images.githubusercontent.com/61192734/103393176-45d55e00-4ad6-11eb-9c8e-c5b1412384c9.png)
+![react_portfolio_screenshot](https://user-images.githubusercontent.com/61192734/103423776-5977d780-4b5d-11eb-8660-62bd9275d7f0.png)
 
 ## Links
 
@@ -41,7 +41,7 @@ Anyone can contribute but please discuss with me first by sending an email.
 ## Contacts
 
 Email:
-rajendrashr@gmail.com
+shrestharajendra899@gmail.com
 
 GitHub Link:
 https://github.com/shreraje
