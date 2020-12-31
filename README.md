@@ -1,4 +1,4 @@
-# Unit 20 React Homework: React Portfolio
+# React Portfolio
 <img src="https://img.shields.io/badge/License-GNU AGPLv3.0-blue.svg" alt="License image of GNU AGPLv3.0" />
   
 ## Description
