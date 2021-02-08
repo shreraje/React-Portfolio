@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/License-GNU AGPLv3.0-blue.svg" alt="License image of GNU AGPLv3.0" />
   
 ## Description
-The main purpose of this project is to create a simple react portfolio app showing multiple projects (group projects and class projects) in a single portfolio web page. I have added some styles such as background colors which is still not the best but I will will be working on it in future to look better. I have also used materialize css styles too.
+The main purpose of this project is to create a simple react portfolio app showing multiple projects (group projects and individual class projects) in a single portfolio web page. I have added some styles such as background colors which is still not the best but I will be working on it in future to look better. I have also used materialize css styles too.
 
 ## Table of Contents
 * [Description](#description)
