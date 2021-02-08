@@ -16,7 +16,7 @@ function Footer() {
                                 <a class="blue-text text-darken-2" href="https://linkedin.com/in/rajendra-shrestha-54597679" target="_blank" rel="noopener noreferrer">
                                 <img src="https://img.icons8.com/color/6h58/000000/linkedin.png" alt="LinkedIn badge"></img>LinkedIn</a>
                                 
-                                <a class="blue-text text-darken-2" href="https://drive.google.com/file/d/1A4_ps2mP1oQqkgq_X84CFO9ZqUmRmUf9/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                                <a class="blue-text text-darken-2" href="https://drive.google.com/file/d/1CyPeMUtdCNCMbkTiW5UcD6wEg6Eq7Yfx/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                                 <img src="https://img.icons8.com/ios-filled/50/000000/resume.png" alt="LinkedIn badge"></img>Resume</a>
                         </div>
                     </div>
