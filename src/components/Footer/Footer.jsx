@@ -21,9 +21,9 @@ function Footer() {
                         </div>
                     </div>
 
-                    <div className="col l6h5 offset-l2 s12" style={{ margin: "auto", width: "20%" }}>
+                    <div className="col l6h5 offset-l2 s12" style={{ margin: "auto", width: "20%", color: "aliceblue" }}>
                         <h6 className="black-text"><b>Contact me at:</b></h6>
-                        <h6 className="black-text ">Email: shrestharajendra899@gmail.com</h6>
+                        <h6 className="blue-text "><b>Email: shrestharajendra899@gmail.com</b></h6>
                     </div>
                 </div>
             </div>

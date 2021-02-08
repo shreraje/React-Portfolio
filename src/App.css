@@ -9,3 +9,14 @@ body {
 .card, .card-panel {
   background-image: linear-gradient(to right, skyblue, white);
 }
+
+.page-footer {
+  background-image: linear-gradient(to right, grey, white, white, grey);
+  bottom:0;
+  width:100%;
+  height:130px;   /* Height of the footer */
+}
+
+.card-action {
+  margin-top: 10px;
+}
